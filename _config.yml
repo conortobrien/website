@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: conor t. o'brien
 title: Copyediting
 email: ctobrien.copyediting@gmail.com
-website: conortobrien.github.io/website
+#website: conortobrien.github.io/website
 
 # Social links
 #twitter_username: facespics
@@ -21,7 +21,7 @@ linkedin_username: conor-o-brien-75b25997
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+# about_title:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Copyeditor specializing in literary fiction and memoir. I enjoy the process of working with a text to ensure the author’s vision comes through clearly and effectively, free from error. Previous projects include  Kin by Miljenko Jergović and Milongas by Edgardo Cozarinksy, both are forthcoming from [Archipelago Books](https://archipelagobooks.org/). To view my resumé, click [here](https://conortobrien.github.io/website/assets/CTO_Resume.pdf).

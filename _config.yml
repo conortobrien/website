@@ -24,7 +24,7 @@ linkedin_username: conor-o-brien-75b25997
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Check out my [resume](http://conortobrien.github.io/website/CTO_Resume.pdf)
+  Check out my [resume](https://conortobrien.github.io/website/assets/CTO_Resume.pdf)
 # Projects Section
 # projects_title: Projects
 
